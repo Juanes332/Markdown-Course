@@ -92,4 +92,4 @@ const test = (str) => str + 'test';
 * [x] task4
 
 <!-- Mentiosn -->
-@faztweb :+1: :smile:
+@juanhezdev :+1: :smile:
